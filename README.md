@@ -2,7 +2,7 @@
 Sample utility for viewing CV Certificates 
 How to install CV Certificate Viewer.
 
-1-	add a new environment variable with name ‘ CVCLASSPATH ‘ in system variables with lib folder i.e “G:\software\CV Certificate Viewer\lib\*\” with quotes.
+1-	add a new environment variable with name ‘ CVCLASSPATH ‘ in system variables with lib folder i.e “G:\software\CV Certificate Viewer\lib\\*” with quotes.
  
 2-	Set JAVA_HOME in ViewCVCertificate.cmd file 
 
